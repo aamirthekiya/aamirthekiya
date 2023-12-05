@@ -8,14 +8,26 @@
 ```javascript
 const aamir = {
     pronouns: "He" | "Him",
-    code: ["Python", "JavaScript"],
-    askMeAbout: ["software dev", "backEnd dev", "fullStack dev"],
+    code: ["Python", "Go"],
+    askMeAbout: ["software dev", "backEnd dev"],
     technologies: {
-        frontEnd: ["HTML5", "CSS3", "Bootstrap"],
-        backEnd: ["Django", "Node.js"],
-        databases: ["PostgreSQL", "MongoDB",],
+        backEnd: ["Python", "Go"],
+        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+        cloud: ["GCP"],
     },
     experience: [
+        {
+            Company: "Finwizard Technology Pvt Ltd", 
+            Position: "Software Development Enginner 1",
+            Duration: "2+ years (Oct 2021 - Present)", 
+            Technologies: "Python, Flask, PostgreSQL, MySQL, Redis, GCP, Docker"
+        },
+        {
+            Company: "HashedIn by Deloitte", 
+            Position: "Software Development Intern",
+            Duration: "2 months (July 2021 - Oct 2021)", 
+            Technologies: "Java, Spring boot, MySQL, Gitlab"
+        },
         {
             Company: "Fossee, IIT Bombay", 
             Position: "Software Development Intern",
