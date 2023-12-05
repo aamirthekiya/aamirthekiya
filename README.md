@@ -21,21 +21,21 @@ const aamir = {
             Position: "Software Development Enginner 1",
             Duration: "2+ years (Oct 2021 - Present)",
             Technologies: "Python, Flask, PostgreSQL, MySQL, Redis, GCP, Docker",
-            Location: "Bengaluru, Karnataka, India"
+            Location: "Bengaluru, Karnataka, India",
         },
         {
             Company: "HashedIn by Deloitte", 
             Position: "Software Development Intern",
             Duration: "2 months (July 2021 - Oct 2021)", 
-            Technologies: "Java, Spring boot, MySQL, Gitlab"
-            Location: "Remote"
+            Technologies: "Java, Spring boot, MySQL, Gitlab",
+            Location: "Remote",
         },
         {
             Company: "Fossee, IIT Bombay", 
             Position: "Software Development Intern",
             Duration: "2 months (Nov 2019 - Jan 2020)", 
-            Technologies: "Python & PYQT5, Shell Script"
-            Location: "Mumbai, Maharashtra, India"
+            Technologies: "Python & PYQT5, Shell Script",
+            Location: "Mumbai, Maharashtra, India",
         },
     ]
 };
