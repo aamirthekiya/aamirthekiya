@@ -1,6 +1,6 @@
 <h2>Hi, I'm Aamir Thekiya!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Final year Information Technology Engineering Student at Mumbai University.</em></p>
+<p><em>Experienced professional with a solid 2+ year track record in Software Development. Proven expertise in Backend Development, coupled with a results-oriented mindset. Excited to bring my skills to a dynamic team and contribute to ongoing success..</em></p>
 <p><em>Looking for new opportunities</em></p>
 
 [![Linkedin: Aamir Thekiya](https://img.shields.io/badge/-aamir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aamir-thekiya//)](https://www.linkedin.com/in/aamir-thekiya//)
